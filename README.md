@@ -21,10 +21,6 @@ A marketplace for agent-managed USDC vaults. Anyone launches a fund, an autonomo
 
 The founder uploads the bot they say they run, the browser hashes it, and the vault seals that hash on chain, so a quiet swap later shows up as a version bump. Arc testnet. [Live](https://helm-arc.vercel.app)
 
-### 🫧 dotcombubble
-
-A bonding-curve launchpad. Tokens sell on a curve, graduate into a real pool, and the liquidity is locked by structure rather than by promise. On Stellar. [Live](https://dotcombubble.fun)
-
 ---
 
 Also here: [Haven](https://github.com/Foreveranka/Haven), an earlier real estate NFT auction on Ethereum.
