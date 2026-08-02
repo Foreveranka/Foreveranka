@@ -13,10 +13,10 @@ It has been rebuilt three times as the ground moved:
 | | chain | state |
 |---|---|---|
 | [Troia](https://github.com/Foreveranka/Troia) | Stellar | current, [docs](https://troia-docs.vercel.app) |
-| [troia-arc](https://github.com/Foreveranka/troia-arc) | Arc | Arc mainnet went down in July 2026 |
+| [Troia-Arc](https://github.com/Foreveranka/Troia-Arc) | Arc | Arc mainnet went down in July 2026 |
 | Troia-Monad-First | Monad | the first version |
 
-### [Helm](https://github.com/Foreveranka/helm-arc)
+### [Helm](https://github.com/Foreveranka/Helm-Arc)
 
 A marketplace for agent-managed USDC vaults on Arc. Anyone launches a fund, an autonomous agent runs the strategy, and the contract gives that agent no way to send money to an arbitrary address. Investors hold an ERC-4626 share token that tracks real profit and loss.
 
